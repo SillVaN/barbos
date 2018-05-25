@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+}
+#block-pass-login{
+    width: 285px;
+    height: auto;
+    border: 1px solid #E5E5E5;
+    background-color: #F2F2F2;
+    margin: 150px auto;
+}
+#pass-login li{
+    margin-top: 10px;
+}
+#pass-login label{
+    font: 15px sans-serif;
+    position: absolute;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+#pass-login input{
+    width: 200px;
+    height: 24px;
+    margin-left: 75px;
+    border: 1px solid #D6D6D6;
+    font-size: 15px;
+}
+#submit_enter{
+    margin: 20px;
+}
+#submit_enter:hover{
+    cursor: pointer;
+}
